@@ -1,0 +1,47 @@
+Nama : Lutfiana SInta Lestari
+NPM : 535210065
+
+No2. 
+
+<html>
+<head>
+<title>Data Customer</title>
+</head>
+<body>
+<h1>Data Customer</h1>
+<table border="1">
+<thread>
+  <tr>
+    <th>No</th>
+    <th>No Customer</th>
+    <th>Nama Lengkap</th>
+    <th>Email</th>
+    <th>Pengeluaran</th>
+  </tr>
+</thread>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>131</td>
+    <td>Jane</td>
+    <td>jane12@gmail.com</td>
+    <td>1.342.000</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>132</td>
+    <td>Rose</td>
+    <td>rose@gmail.com</td>
+    <td>312.340</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>235</td>
+    <td>Lisa</td>
+    <td>lalisa@gmail.com</td>
+    <td>2.122.900</td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>

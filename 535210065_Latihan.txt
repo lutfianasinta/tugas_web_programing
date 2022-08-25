@@ -1,0 +1,41 @@
+Nama : Lutfiana Sinta Lestari
+NPM : 535210065
+
+No1.
+
+<html>
+<head>
+<title>Register</title>
+</head>
+<body>
+<h1>Register</h1>
+<form>
+Nama Lengkap
+<input type="text">
+<br>
+
+Email
+<input type="text">
+<br>
+
+Umur
+<input type="text">
+<br>
+
+Jenis Kelamin
+<input type="radio" name="example">Pria
+<input type="radio" name="example">Wanita
+<br>
+
+Pekerjaan
+<input type="text">
+<br>
+
+<br>
+<input type="submit" value="Login">
+<button type="button">Reset</button>
+</button>
+</form>
+</body>
+</html>
+
